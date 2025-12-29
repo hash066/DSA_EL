@@ -45,9 +45,7 @@ Usage: sniffer [-d XXX -h]
 -S: #.#.#.# : IP address of TFTP server to monitor.
 ```
 
-## Demo
 
-In detail, please refer to this [article](https://organicprogrammer.com/2022/07/22/CPacketSniffer/).
 
 ## External dependencies
 `cPacketSniffer` is relying on `libpcap`, which is a famous library in the network capturing field. And the libraries are pretty straightforward to install.
